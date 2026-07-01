@@ -36,21 +36,21 @@
 
 ```
 ┌─ Frontend ──────────────────────────────┐
-│ (Future: Angular with REST calls) │
+│ (Future: Angular with REST calls)       │
 └──────────────────┬──────────────────────┘
                    │
 ┌─ Backend API ────────────────────────────────────────┐
 │ Spring Boot 3.5.3 (LTS, Java 17)                     │
-│ └─ CarMatchmakerController (REST endpoints)         │
-│ └─ CarMatchmakerService (matching logic)            │
-│ └─ LLMSuggestionService (OpenAI integration)        │
-│ └─ CarRepository (JPA data access)                  │
+│ └─ CarMatchmakerController (REST endpoints)          │
+│ └─ CarMatchmakerService (matching logic)             │
+│ └─ LLMSuggestionService (OpenAI integration)         │
+│ └─ CarRepository (JPA data access)                   │
 └──────────────────┬───────────────────────────────────┘
                    │
 ┌─ Data & AI ───────────────────────────────────┐
-│ H2 Database (cars.json loaded at startup)    │
-│ Spring AI 1.0.1 (OpenAI ChatClient)          │
-│ OpenAI API (GPT-3.5-turbo for suggestions)   │
+│ H2 Database (cars.json loaded at startup)     │
+│ Spring AI 1.0.1 (OpenAI ChatClient)           │
+│ OpenAI API (GPT-3.5-turbo for suggestions)    │ 
 └───────────────────────────────────────────────┘
 ```
 
