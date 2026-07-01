@@ -1,0 +1,5032 @@
+[
+  {
+    "name": "Apex Family Cruiser",
+    "type": "Hybrid Mid-Size SUV",
+    "price": 71846.58,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Volt Urban Wagon",
+    "type": "All-Electric Crossover",
+    "price": 71846.58,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Terra Ridge 4WD",
+    "type": "Full-Size Adventure SUV",
+    "price": 71846.58,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 1 Convertible",
+    "type": "Convertible",
+    "price": 71846.58,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 2 Convertible",
+    "type": "Convertible",
+    "price": 83867.57,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 28.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 3 SUV",
+    "type": "SUV",
+    "price": 36137.84,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 4 Truck",
+    "type": "Truck",
+    "price": 22407.25,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 25.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 5 Coupe",
+    "type": "Coupe",
+    "price": 47562.89,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 39.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 6 Wagon",
+    "type": "Wagon",
+    "price": 79898.24,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 14.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 7 Sedan",
+    "type": "Sedan",
+    "price": 60892.28,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 31.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 8 Crossover",
+    "type": "Crossover",
+    "price": 83776.42,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 34.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 9 Hatchback",
+    "type": "Hatchback",
+    "price": 21033.44,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 10 Truck",
+    "type": "Truck",
+    "price": 56345.04,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 34.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 11 Truck",
+    "type": "Truck",
+    "price": 48374.18,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 28.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 12 SUV",
+    "type": "SUV",
+    "price": 29204.35,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 25.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 13 SUV",
+    "type": "SUV",
+    "price": 80757.78,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 14 Crossover",
+    "type": "Crossover",
+    "price": 78711.45,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 24.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 15 Hatchback",
+    "type": "Hatchback",
+    "price": 39324.36,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 35.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 16 Sedan",
+    "type": "Sedan",
+    "price": 69861.69,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 22.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 17 Coupe",
+    "type": "Coupe",
+    "price": 46959.84,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 35.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 18 Sedan",
+    "type": "Sedan",
+    "price": 76284.02,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 19 Hatchback",
+    "type": "Hatchback",
+    "price": 44340.71,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 29.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 20 SUV",
+    "type": "SUV",
+    "price": 68858.5,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 38.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 21 Convertible",
+    "type": "Convertible",
+    "price": 61545.0,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 14.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 22 Coupe",
+    "type": "Coupe",
+    "price": 47705.15,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 23 Hatchback",
+    "type": "Hatchback",
+    "price": 67449.23,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 22.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 24 SUV",
+    "type": "SUV",
+    "price": 67327.28,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 35.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 25 Truck",
+    "type": "Truck",
+    "price": 23790.96,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 12.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 26 Truck",
+    "type": "Truck",
+    "price": 63670.01,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 16.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 27 Wagon",
+    "type": "Wagon",
+    "price": 70618.08,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 27.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 28 Crossover",
+    "type": "Crossover",
+    "price": 72162.5,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 30.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 29 Truck",
+    "type": "Truck",
+    "price": 44101.29,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 30 Coupe",
+    "type": "Coupe",
+    "price": 27005.98,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 31 Convertible",
+    "type": "Convertible",
+    "price": 17365.91,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 16.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 32 Truck",
+    "type": "Truck",
+    "price": 67613.71,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 33 Sedan",
+    "type": "Sedan",
+    "price": 52093.7,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 34.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 34 Crossover",
+    "type": "Crossover",
+    "price": 56142.15,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 39.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 35 Convertible",
+    "type": "Convertible",
+    "price": 38713.29,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 39.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 36 Crossover",
+    "type": "Crossover",
+    "price": 23917.79,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 31.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 37 Hatchback",
+    "type": "Hatchback",
+    "price": 50670.41,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 38 Hatchback",
+    "type": "Hatchback",
+    "price": 79601.99,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 15.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 39 Truck",
+    "type": "Truck",
+    "price": 78842.98,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 31.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 40 Coupe",
+    "type": "Coupe",
+    "price": 85382.91,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 41 Convertible",
+    "type": "Convertible",
+    "price": 42933.69,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 22.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 42 Sedan",
+    "type": "Sedan",
+    "price": 25384.27,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 34.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 43 Coupe",
+    "type": "Coupe",
+    "price": 73456.27,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 16.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 44 Coupe",
+    "type": "Coupe",
+    "price": 44609.4,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 15.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 45 Sedan",
+    "type": "Sedan",
+    "price": 38090.98,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 20.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 46 Truck",
+    "type": "Truck",
+    "price": 46104.12,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 47 Coupe",
+    "type": "Coupe",
+    "price": 78063.62,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 48 Wagon",
+    "type": "Wagon",
+    "price": 46990.15,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 37.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 49 Hatchback",
+    "type": "Hatchback",
+    "price": 19937.6,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 13.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 50 Hatchback",
+    "type": "Hatchback",
+    "price": 44535.6,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 51 Crossover",
+    "type": "Crossover",
+    "price": 46727.86,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 28.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 52 Convertible",
+    "type": "Convertible",
+    "price": 29395.88,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 37.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 53 Crossover",
+    "type": "Crossover",
+    "price": 23918.27,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 29.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 54 SUV",
+    "type": "SUV",
+    "price": 22847.23,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 27.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 55 Hatchback",
+    "type": "Hatchback",
+    "price": 89151.74,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 56 Wagon",
+    "type": "Wagon",
+    "price": 65948.88,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 57 Crossover",
+    "type": "Crossover",
+    "price": 15727.85,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 26.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 58 SUV",
+    "type": "SUV",
+    "price": 78175.0,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 59 Hatchback",
+    "type": "Hatchback",
+    "price": 53739.59,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 15.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 60 Sedan",
+    "type": "Sedan",
+    "price": 71917.4,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 34.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 61 Coupe",
+    "type": "Coupe",
+    "price": 52874.98,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 28.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 62 Convertible",
+    "type": "Convertible",
+    "price": 82933.55,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 63 Convertible",
+    "type": "Convertible",
+    "price": 60557.24,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 32.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 64 Truck",
+    "type": "Truck",
+    "price": 39951.44,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 33.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 65 Convertible",
+    "type": "Convertible",
+    "price": 19669.41,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 32.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 66 Sedan",
+    "type": "Sedan",
+    "price": 85639.66,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 25.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 67 SUV",
+    "type": "SUV",
+    "price": 75771.64,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 29.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 68 Wagon",
+    "type": "Wagon",
+    "price": 18527.47,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 69 Coupe",
+    "type": "Coupe",
+    "price": 22896.96,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 70 Hatchback",
+    "type": "Hatchback",
+    "price": 81095.75,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 71 Hatchback",
+    "type": "Hatchback",
+    "price": 87711.41,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 38.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 72 Truck",
+    "type": "Truck",
+    "price": 83766.56,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 13.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 73 Wagon",
+    "type": "Wagon",
+    "price": 42868.62,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 34.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 74 Sedan",
+    "type": "Sedan",
+    "price": 82644.56,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 37.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 75 Crossover",
+    "type": "Crossover",
+    "price": 22010.72,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 76 Hatchback",
+    "type": "Hatchback",
+    "price": 25926.78,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 38.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 77 Hatchback",
+    "type": "Hatchback",
+    "price": 22440.82,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 34.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 78 Convertible",
+    "type": "Convertible",
+    "price": 17260.07,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 14.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 79 Hatchback",
+    "type": "Hatchback",
+    "price": 41944.0,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 80 Coupe",
+    "type": "Coupe",
+    "price": 20288.82,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 17.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 81 Sedan",
+    "type": "Sedan",
+    "price": 36994.72,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 36.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 82 Wagon",
+    "type": "Wagon",
+    "price": 23429.33,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 15.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 83 Coupe",
+    "type": "Coupe",
+    "price": 40125.99,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 84 Hatchback",
+    "type": "Hatchback",
+    "price": 54992.09,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 85 SUV",
+    "type": "SUV",
+    "price": 75329.27,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 18.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 86 Truck",
+    "type": "Truck",
+    "price": 42934.64,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 23.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 87 SUV",
+    "type": "SUV",
+    "price": 46517.38,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 88 Coupe",
+    "type": "Coupe",
+    "price": 21341.68,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 29.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 89 Convertible",
+    "type": "Convertible",
+    "price": 45646.97,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 24.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 90 Truck",
+    "type": "Truck",
+    "price": 86425.57,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 19.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 91 Wagon",
+    "type": "Wagon",
+    "price": 84620.12,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 92 Crossover",
+    "type": "Crossover",
+    "price": 86964.92,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 22.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 93 Wagon",
+    "type": "Wagon",
+    "price": 71627.63,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 94 Sedan",
+    "type": "Sedan",
+    "price": 31405.06,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 27.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 95 Convertible",
+    "type": "Convertible",
+    "price": 67972.05,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 96 Convertible",
+    "type": "Convertible",
+    "price": 36006.63,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 36.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 97 Sedan",
+    "type": "Sedan",
+    "price": 34243.19,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 98 Hatchback",
+    "type": "Hatchback",
+    "price": 70991.32,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 99 Hatchback",
+    "type": "Hatchback",
+    "price": 74417.74,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 15.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 100 SUV",
+    "type": "SUV",
+    "price": 20106.97,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 101 Hatchback",
+    "type": "Hatchback",
+    "price": 45810.34,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 20.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 102 SUV",
+    "type": "SUV",
+    "price": 26780.25,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 103 SUV",
+    "type": "SUV",
+    "price": 56970.99,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 104 Crossover",
+    "type": "Crossover",
+    "price": 50753.64,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 105 Wagon",
+    "type": "Wagon",
+    "price": 37513.89,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 12.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 106 Convertible",
+    "type": "Convertible",
+    "price": 81640.88,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 31.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 107 Convertible",
+    "type": "Convertible",
+    "price": 15481.76,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 40.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 108 Crossover",
+    "type": "Crossover",
+    "price": 25550.98,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 15.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 109 Coupe",
+    "type": "Coupe",
+    "price": 43809.76,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 110 Wagon",
+    "type": "Wagon",
+    "price": 84992.4,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 15.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 111 Wagon",
+    "type": "Wagon",
+    "price": 41187.54,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 112 Crossover",
+    "type": "Crossover",
+    "price": 74668.76,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 37.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 113 Crossover",
+    "type": "Crossover",
+    "price": 62488.18,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 32.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 114 Crossover",
+    "type": "Crossover",
+    "price": 60808.49,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 33.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 115 Convertible",
+    "type": "Convertible",
+    "price": 49372.07,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 116 Wagon",
+    "type": "Wagon",
+    "price": 34106.42,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 19.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 117 Sedan",
+    "type": "Sedan",
+    "price": 27214.32,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 15.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 118 Crossover",
+    "type": "Crossover",
+    "price": 87800.68,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 24.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 119 Hatchback",
+    "type": "Hatchback",
+    "price": 60476.59,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 27.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 120 Truck",
+    "type": "Truck",
+    "price": 17162.18,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 14.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 121 Crossover",
+    "type": "Crossover",
+    "price": 77796.81,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 20.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 122 Truck",
+    "type": "Truck",
+    "price": 51156.35,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 38.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 123 Sedan",
+    "type": "Sedan",
+    "price": 49569.83,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 124 Wagon",
+    "type": "Wagon",
+    "price": 48008.15,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 14.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 125 Convertible",
+    "type": "Convertible",
+    "price": 81318.96,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 34.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 126 Sedan",
+    "type": "Sedan",
+    "price": 86918.73,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 15.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 127 Coupe",
+    "type": "Coupe",
+    "price": 38969.77,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 29.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 128 Truck",
+    "type": "Truck",
+    "price": 73309.83,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 129 Truck",
+    "type": "Truck",
+    "price": 32384.09,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 16.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 130 Crossover",
+    "type": "Crossover",
+    "price": 31354.85,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 131 Hatchback",
+    "type": "Hatchback",
+    "price": 43852.09,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 18.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 132 Crossover",
+    "type": "Crossover",
+    "price": 70490.22,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 30.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 133 Coupe",
+    "type": "Coupe",
+    "price": 62138.38,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 15.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 134 Coupe",
+    "type": "Coupe",
+    "price": 42524.04,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 135 SUV",
+    "type": "SUV",
+    "price": 53285.59,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 33.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 136 Crossover",
+    "type": "Crossover",
+    "price": 32648.69,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 137 SUV",
+    "type": "SUV",
+    "price": 62174.2,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 26.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 138 Wagon",
+    "type": "Wagon",
+    "price": 49170.22,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 30.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 139 Wagon",
+    "type": "Wagon",
+    "price": 55952.16,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 140 Coupe",
+    "type": "Coupe",
+    "price": 73902.66,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 13.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 141 Coupe",
+    "type": "Coupe",
+    "price": 79722.2,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 30.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 142 Sedan",
+    "type": "Sedan",
+    "price": 41726.84,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 21.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 143 Sedan",
+    "type": "Sedan",
+    "price": 16842.35,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 38.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 144 Hatchback",
+    "type": "Hatchback",
+    "price": 76571.76,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 145 Crossover",
+    "type": "Crossover",
+    "price": 48672.51,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 146 Convertible",
+    "type": "Convertible",
+    "price": 43700.12,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 147 Hatchback",
+    "type": "Hatchback",
+    "price": 45670.04,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 26.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 148 Hatchback",
+    "type": "Hatchback",
+    "price": 39753.83,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 38.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 149 SUV",
+    "type": "SUV",
+    "price": 68834.46,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 29.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 150 SUV",
+    "type": "SUV",
+    "price": 61120.28,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 34.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 151 Sedan",
+    "type": "Sedan",
+    "price": 61932.31,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 22.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 152 Wagon",
+    "type": "Wagon",
+    "price": 32710.88,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 153 Truck",
+    "type": "Truck",
+    "price": 75249.3,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 26.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 154 Wagon",
+    "type": "Wagon",
+    "price": 88299.56,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 38.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 155 Wagon",
+    "type": "Wagon",
+    "price": 44629.9,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 25.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 156 Truck",
+    "type": "Truck",
+    "price": 70496.89,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 157 Coupe",
+    "type": "Coupe",
+    "price": 43955.38,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 27.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 158 Crossover",
+    "type": "Crossover",
+    "price": 58960.94,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 16.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 159 Coupe",
+    "type": "Coupe",
+    "price": 78466.24,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 27.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 160 Coupe",
+    "type": "Coupe",
+    "price": 36839.3,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 161 Convertible",
+    "type": "Convertible",
+    "price": 89060.33,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 24.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 162 Sedan",
+    "type": "Sedan",
+    "price": 86145.62,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 32.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 163 Hatchback",
+    "type": "Hatchback",
+    "price": 56165.79,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 26.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 164 SUV",
+    "type": "SUV",
+    "price": 58476.52,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 165 Truck",
+    "type": "Truck",
+    "price": 38354.83,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 38.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 166 Coupe",
+    "type": "Coupe",
+    "price": 29249.12,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 33.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 167 Convertible",
+    "type": "Convertible",
+    "price": 42070.61,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 168 Sedan",
+    "type": "Sedan",
+    "price": 42166.68,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 29.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 169 Sedan",
+    "type": "Sedan",
+    "price": 69818.95,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 19.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 170 Hatchback",
+    "type": "Hatchback",
+    "price": 57985.54,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 171 Crossover",
+    "type": "Crossover",
+    "price": 27336.45,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 172 Truck",
+    "type": "Truck",
+    "price": 47791.24,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 14.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 173 Wagon",
+    "type": "Wagon",
+    "price": 15822.71,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 174 Convertible",
+    "type": "Convertible",
+    "price": 73158.5,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 28.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 175 SUV",
+    "type": "SUV",
+    "price": 57331.15,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 23.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 176 Sedan",
+    "type": "Sedan",
+    "price": 21111.15,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 13.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 177 Wagon",
+    "type": "Wagon",
+    "price": 18234.01,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 178 Truck",
+    "type": "Truck",
+    "price": 45481.26,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 23.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 179 Sedan",
+    "type": "Sedan",
+    "price": 27218.38,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 32.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 180 Convertible",
+    "type": "Convertible",
+    "price": 86225.9,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 14.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 181 Truck",
+    "type": "Truck",
+    "price": 30120.34,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 33.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 182 SUV",
+    "type": "SUV",
+    "price": 71750.42,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 13.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 183 Sedan",
+    "type": "Sedan",
+    "price": 82197.73,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 30.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 184 Crossover",
+    "type": "Crossover",
+    "price": 75920.09,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 37.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 185 Wagon",
+    "type": "Wagon",
+    "price": 72864.07,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 35.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 186 Sedan",
+    "type": "Sedan",
+    "price": 75972.16,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 187 Wagon",
+    "type": "Wagon",
+    "price": 40185.55,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 188 SUV",
+    "type": "SUV",
+    "price": 38766.87,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 12.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 189 Sedan",
+    "type": "Sedan",
+    "price": 46037.72,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 34.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 190 SUV",
+    "type": "SUV",
+    "price": 41841.27,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 24.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 191 Truck",
+    "type": "Truck",
+    "price": 57205.18,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 12.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 192 Crossover",
+    "type": "Crossover",
+    "price": 86196.39,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 15.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 193 Sedan",
+    "type": "Sedan",
+    "price": 28281.52,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 21.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 194 Wagon",
+    "type": "Wagon",
+    "price": 21033.78,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 195 Sedan",
+    "type": "Sedan",
+    "price": 63599.8,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 22.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 196 Wagon",
+    "type": "Wagon",
+    "price": 87610.98,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 38.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 197 Convertible",
+    "type": "Convertible",
+    "price": 40326.83,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 16.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 198 Crossover",
+    "type": "Crossover",
+    "price": 85736.52,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 25.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 199 Sedan",
+    "type": "Sedan",
+    "price": 31981.92,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 39.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 200 Crossover",
+    "type": "Crossover",
+    "price": 27271.6,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 36.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 201 Convertible",
+    "type": "Convertible",
+    "price": 57368.89,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 31.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 202 SUV",
+    "type": "SUV",
+    "price": 16463.23,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 13.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 203 SUV",
+    "type": "SUV",
+    "price": 73374.39,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 204 Coupe",
+    "type": "Coupe",
+    "price": 68340.39,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 26.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 205 SUV",
+    "type": "SUV",
+    "price": 45581.89,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 206 Crossover",
+    "type": "Crossover",
+    "price": 50335.05,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 30.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 207 Hatchback",
+    "type": "Hatchback",
+    "price": 77668.67,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 27.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 208 Crossover",
+    "type": "Crossover",
+    "price": 35721.14,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 209 Sedan",
+    "type": "Sedan",
+    "price": 25815.54,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 210 Convertible",
+    "type": "Convertible",
+    "price": 84342.32,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 211 SUV",
+    "type": "SUV",
+    "price": 40537.18,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 33.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 212 Coupe",
+    "type": "Coupe",
+    "price": 40906.56,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 17.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 213 SUV",
+    "type": "SUV",
+    "price": 69259.24,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 214 Truck",
+    "type": "Truck",
+    "price": 56357.63,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 215 Convertible",
+    "type": "Convertible",
+    "price": 69590.69,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 15.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 216 SUV",
+    "type": "SUV",
+    "price": 17341.94,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 217 Hatchback",
+    "type": "Hatchback",
+    "price": 73334.63,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 16.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 218 SUV",
+    "type": "SUV",
+    "price": 32118.71,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 219 Truck",
+    "type": "Truck",
+    "price": 68733.54,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 34.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 220 Truck",
+    "type": "Truck",
+    "price": 82441.28,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 26.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 221 Convertible",
+    "type": "Convertible",
+    "price": 88840.81,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 36.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 222 Coupe",
+    "type": "Coupe",
+    "price": 44269.88,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 223 Hatchback",
+    "type": "Hatchback",
+    "price": 66257.78,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 28.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 224 Crossover",
+    "type": "Crossover",
+    "price": 59683.94,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 19.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 225 Convertible",
+    "type": "Convertible",
+    "price": 21403.28,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 37.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 226 Coupe",
+    "type": "Coupe",
+    "price": 23110.44,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 30.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 227 SUV",
+    "type": "SUV",
+    "price": 57123.38,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 12.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 228 Convertible",
+    "type": "Convertible",
+    "price": 60619.07,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 229 Sedan",
+    "type": "Sedan",
+    "price": 59057.87,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 230 Convertible",
+    "type": "Convertible",
+    "price": 84711.29,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 231 Crossover",
+    "type": "Crossover",
+    "price": 53009.63,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 232 Truck",
+    "type": "Truck",
+    "price": 77487.01,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 233 Truck",
+    "type": "Truck",
+    "price": 28576.38,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 20.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 234 Wagon",
+    "type": "Wagon",
+    "price": 20163.3,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 235 Hatchback",
+    "type": "Hatchback",
+    "price": 34914.49,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 15.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 236 SUV",
+    "type": "SUV",
+    "price": 64382.8,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 237 Sedan",
+    "type": "Sedan",
+    "price": 17479.77,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 238 Wagon",
+    "type": "Wagon",
+    "price": 56965.94,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 18.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 239 Truck",
+    "type": "Truck",
+    "price": 35584.26,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 38.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 240 Hatchback",
+    "type": "Hatchback",
+    "price": 20812.63,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 32.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 241 SUV",
+    "type": "SUV",
+    "price": 32372.16,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 242 Truck",
+    "type": "Truck",
+    "price": 43825.49,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 243 Wagon",
+    "type": "Wagon",
+    "price": 32148.56,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 24.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 244 Convertible",
+    "type": "Convertible",
+    "price": 72549.3,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 245 Hatchback",
+    "type": "Hatchback",
+    "price": 48449.03,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 38.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 246 Wagon",
+    "type": "Wagon",
+    "price": 32152.27,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 247 Crossover",
+    "type": "Crossover",
+    "price": 65672.18,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 248 Coupe",
+    "type": "Coupe",
+    "price": 53843.86,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 249 Convertible",
+    "type": "Convertible",
+    "price": 81823.39,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 28.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 250 Convertible",
+    "type": "Convertible",
+    "price": 22010.86,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 251 Coupe",
+    "type": "Coupe",
+    "price": 17119.69,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 252 SUV",
+    "type": "SUV",
+    "price": 23736.86,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 14.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 253 Crossover",
+    "type": "Crossover",
+    "price": 78582.46,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 254 SUV",
+    "type": "SUV",
+    "price": 84448.49,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 255 Sedan",
+    "type": "Sedan",
+    "price": 47686.01,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 12.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 256 Coupe",
+    "type": "Coupe",
+    "price": 77030.86,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 257 Truck",
+    "type": "Truck",
+    "price": 85889.18,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 31.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 258 Convertible",
+    "type": "Convertible",
+    "price": 30531.66,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 259 Hatchback",
+    "type": "Hatchback",
+    "price": 66984.44,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 260 SUV",
+    "type": "SUV",
+    "price": 49117.7,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 261 Convertible",
+    "type": "Convertible",
+    "price": 20891.24,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 24.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 262 Wagon",
+    "type": "Wagon",
+    "price": 73141.5,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 263 Convertible",
+    "type": "Convertible",
+    "price": 86893.13,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 264 Truck",
+    "type": "Truck",
+    "price": 50792.4,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 265 Coupe",
+    "type": "Coupe",
+    "price": 63997.02,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 17.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 266 Sedan",
+    "type": "Sedan",
+    "price": 26633.06,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 33.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 267 Convertible",
+    "type": "Convertible",
+    "price": 65833.55,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 16.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 268 Coupe",
+    "type": "Coupe",
+    "price": 81575.03,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 269 SUV",
+    "type": "SUV",
+    "price": 62515.62,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 270 Crossover",
+    "type": "Crossover",
+    "price": 51581.85,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 12.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 271 SUV",
+    "type": "SUV",
+    "price": 33213.73,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 36.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 272 Truck",
+    "type": "Truck",
+    "price": 81405.87,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 16.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 273 Wagon",
+    "type": "Wagon",
+    "price": 44311.33,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 16.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 274 SUV",
+    "type": "SUV",
+    "price": 86538.39,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 37.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 275 Sedan",
+    "type": "Sedan",
+    "price": 45460.36,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 276 Sedan",
+    "type": "Sedan",
+    "price": 87051.62,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 277 Convertible",
+    "type": "Convertible",
+    "price": 55793.61,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 278 Crossover",
+    "type": "Crossover",
+    "price": 46450.76,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 32.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 279 Sedan",
+    "type": "Sedan",
+    "price": 59092.16,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 25.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 280 Wagon",
+    "type": "Wagon",
+    "price": 35884.29,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 281 Crossover",
+    "type": "Crossover",
+    "price": 76810.71,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 16.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 282 Hatchback",
+    "type": "Hatchback",
+    "price": 86641.4,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 283 Convertible",
+    "type": "Convertible",
+    "price": 69687.18,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 284 SUV",
+    "type": "SUV",
+    "price": 81386.94,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 285 Sedan",
+    "type": "Sedan",
+    "price": 62199.04,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 21.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 286 Crossover",
+    "type": "Crossover",
+    "price": 70879.1,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 21.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 287 SUV",
+    "type": "SUV",
+    "price": 83102.75,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 21.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 288 Hatchback",
+    "type": "Hatchback",
+    "price": 61009.18,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 28.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 289 SUV",
+    "type": "SUV",
+    "price": 51395.43,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 14.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 290 SUV",
+    "type": "SUV",
+    "price": 67026.31,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 29.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 291 Coupe",
+    "type": "Coupe",
+    "price": 26847.12,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 18.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 292 SUV",
+    "type": "SUV",
+    "price": 35761.52,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 20.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 293 Sedan",
+    "type": "Sedan",
+    "price": 21342.69,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 16.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 294 Crossover",
+    "type": "Crossover",
+    "price": 53453.29,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 23.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 295 Hatchback",
+    "type": "Hatchback",
+    "price": 21027.93,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 20.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 296 Truck",
+    "type": "Truck",
+    "price": 17350.87,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 14.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 297 Coupe",
+    "type": "Coupe",
+    "price": 88328.07,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 35.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 298 Truck",
+    "type": "Truck",
+    "price": 59786.22,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 28.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 299 Coupe",
+    "type": "Coupe",
+    "price": 83289.52,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 300 Convertible",
+    "type": "Convertible",
+    "price": 43085.32,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 31.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 301 Convertible",
+    "type": "Convertible",
+    "price": 17295.55,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 35.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 302 Wagon",
+    "type": "Wagon",
+    "price": 16139.56,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 303 Crossover",
+    "type": "Crossover",
+    "price": 52487.48,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 304 Sedan",
+    "type": "Sedan",
+    "price": 27317.42,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 19.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 305 Truck",
+    "type": "Truck",
+    "price": 74165.22,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 27.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 306 Crossover",
+    "type": "Crossover",
+    "price": 79814.25,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 18.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 307 SUV",
+    "type": "SUV",
+    "price": 70874.03,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 32.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 308 Sedan",
+    "type": "Sedan",
+    "price": 45903.08,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 309 Convertible",
+    "type": "Convertible",
+    "price": 54991.35,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 36.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 310 Hatchback",
+    "type": "Hatchback",
+    "price": 15791.05,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 311 Truck",
+    "type": "Truck",
+    "price": 88851.43,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 312 Hatchback",
+    "type": "Hatchback",
+    "price": 81939.47,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 32.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 313 Sedan",
+    "type": "Sedan",
+    "price": 53345.67,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 314 Wagon",
+    "type": "Wagon",
+    "price": 68260.48,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 12.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 315 Coupe",
+    "type": "Coupe",
+    "price": 65013.63,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 15.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 316 Crossover",
+    "type": "Crossover",
+    "price": 60642.34,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 24.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 317 Truck",
+    "type": "Truck",
+    "price": 85317.21,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 318 Convertible",
+    "type": "Convertible",
+    "price": 67165.42,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 17.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 319 Truck",
+    "type": "Truck",
+    "price": 53577.85,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 320 Truck",
+    "type": "Truck",
+    "price": 47506.76,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 34.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 321 Truck",
+    "type": "Truck",
+    "price": 49411.32,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 322 Sedan",
+    "type": "Sedan",
+    "price": 76909.58,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 37.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 323 Truck",
+    "type": "Truck",
+    "price": 15675.8,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 35.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 324 Crossover",
+    "type": "Crossover",
+    "price": 44478.57,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 36.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 325 Convertible",
+    "type": "Convertible",
+    "price": 73655.1,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 28.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 326 Coupe",
+    "type": "Coupe",
+    "price": 70377.66,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 327 Wagon",
+    "type": "Wagon",
+    "price": 64357.12,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 328 Sedan",
+    "type": "Sedan",
+    "price": 19061.84,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 26.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 329 Truck",
+    "type": "Truck",
+    "price": 39880.72,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 21.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 330 Coupe",
+    "type": "Coupe",
+    "price": 88425.07,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 331 Truck",
+    "type": "Truck",
+    "price": 82185.98,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 37.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 332 Convertible",
+    "type": "Convertible",
+    "price": 60600.62,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 29.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 333 SUV",
+    "type": "SUV",
+    "price": 66470.0,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 35.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 334 Truck",
+    "type": "Truck",
+    "price": 66483.42,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 335 Truck",
+    "type": "Truck",
+    "price": 73884.48,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 336 SUV",
+    "type": "SUV",
+    "price": 81626.62,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 337 Coupe",
+    "type": "Coupe",
+    "price": 62393.86,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 338 Sedan",
+    "type": "Sedan",
+    "price": 30692.87,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 339 Truck",
+    "type": "Truck",
+    "price": 45502.16,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 340 SUV",
+    "type": "SUV",
+    "price": 63318.11,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 28.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 341 Truck",
+    "type": "Truck",
+    "price": 33953.66,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 36.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 342 Hatchback",
+    "type": "Hatchback",
+    "price": 80715.28,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 35.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 343 Hatchback",
+    "type": "Hatchback",
+    "price": 86495.3,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 35.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 344 Hatchback",
+    "type": "Hatchback",
+    "price": 21460.24,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 345 Wagon",
+    "type": "Wagon",
+    "price": 50289.1,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 20.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 346 Convertible",
+    "type": "Convertible",
+    "price": 55665.69,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 37.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 347 Convertible",
+    "type": "Convertible",
+    "price": 77157.3,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 36.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 348 SUV",
+    "type": "SUV",
+    "price": 17583.5,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 26.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 349 Coupe",
+    "type": "Coupe",
+    "price": 85373.51,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 32.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 350 Coupe",
+    "type": "Coupe",
+    "price": 32422.17,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 351 Coupe",
+    "type": "Coupe",
+    "price": 74437.42,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 25.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 352 Convertible",
+    "type": "Convertible",
+    "price": 72493.88,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 26.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 353 Sedan",
+    "type": "Sedan",
+    "price": 57742.87,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 21.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 354 Wagon",
+    "type": "Wagon",
+    "price": 71697.97,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 30.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 355 Coupe",
+    "type": "Coupe",
+    "price": 66256.31,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 356 Convertible",
+    "type": "Convertible",
+    "price": 67150.75,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 37.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 357 SUV",
+    "type": "SUV",
+    "price": 60867.81,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 39.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 358 Convertible",
+    "type": "Convertible",
+    "price": 44358.1,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 18.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 359 Crossover",
+    "type": "Crossover",
+    "price": 55234.59,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 360 Coupe",
+    "type": "Coupe",
+    "price": 33268.12,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 27.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 361 Wagon",
+    "type": "Wagon",
+    "price": 50986.73,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 28.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 362 Wagon",
+    "type": "Wagon",
+    "price": 82855.58,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 26.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 363 Convertible",
+    "type": "Convertible",
+    "price": 38649.35,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 38.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 364 Wagon",
+    "type": "Wagon",
+    "price": 21070.17,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 365 Coupe",
+    "type": "Coupe",
+    "price": 78637.3,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 37.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 366 SUV",
+    "type": "SUV",
+    "price": 72218.15,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 367 Convertible",
+    "type": "Convertible",
+    "price": 78956.28,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 38.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 368 Hatchback",
+    "type": "Hatchback",
+    "price": 89662.97,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 35.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 369 Hatchback",
+    "type": "Hatchback",
+    "price": 82584.68,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 34.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 370 Hatchback",
+    "type": "Hatchback",
+    "price": 76182.83,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 33.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 371 Truck",
+    "type": "Truck",
+    "price": 37161.3,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 15.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 372 Truck",
+    "type": "Truck",
+    "price": 52200.52,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 373 Convertible",
+    "type": "Convertible",
+    "price": 88054.82,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 21.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 374 SUV",
+    "type": "SUV",
+    "price": 71652.01,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 34.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 375 Sedan",
+    "type": "Sedan",
+    "price": 82068.41,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 23.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 376 Wagon",
+    "type": "Wagon",
+    "price": 55391.32,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 30.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 377 Coupe",
+    "type": "Coupe",
+    "price": 64812.25,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 30.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 378 Hatchback",
+    "type": "Hatchback",
+    "price": 41235.05,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 18.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 379 Hatchback",
+    "type": "Hatchback",
+    "price": 28140.06,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 26.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 380 Wagon",
+    "type": "Wagon",
+    "price": 25813.54,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 33.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 381 Hatchback",
+    "type": "Hatchback",
+    "price": 34879.54,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 21.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 382 Convertible",
+    "type": "Convertible",
+    "price": 56218.33,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 30.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 383 Wagon",
+    "type": "Wagon",
+    "price": 53718.6,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 25.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 384 Hatchback",
+    "type": "Hatchback",
+    "price": 22317.73,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 385 Sedan",
+    "type": "Sedan",
+    "price": 30113.38,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 386 Hatchback",
+    "type": "Hatchback",
+    "price": 81564.77,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 18.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 387 Crossover",
+    "type": "Crossover",
+    "price": 84353.25,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 28.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 388 Convertible",
+    "type": "Convertible",
+    "price": 79854.47,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 389 Coupe",
+    "type": "Coupe",
+    "price": 40903.07,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 39.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 390 Crossover",
+    "type": "Crossover",
+    "price": 53846.04,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 18.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 391 Hatchback",
+    "type": "Hatchback",
+    "price": 60320.35,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 32.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 392 Hatchback",
+    "type": "Hatchback",
+    "price": 61071.2,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 18.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 393 Convertible",
+    "type": "Convertible",
+    "price": 84107.69,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 394 SUV",
+    "type": "SUV",
+    "price": 53789.99,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 15.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 395 Coupe",
+    "type": "Coupe",
+    "price": 66260.58,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 17.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 396 Convertible",
+    "type": "Convertible",
+    "price": 63826.91,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 16.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 397 Truck",
+    "type": "Truck",
+    "price": 62208.72,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 35.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 398 Coupe",
+    "type": "Coupe",
+    "price": 26650.94,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 399 Crossover",
+    "type": "Crossover",
+    "price": 23758.07,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 400 SUV",
+    "type": "SUV",
+    "price": 77927.48,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 31.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 401 Hatchback",
+    "type": "Hatchback",
+    "price": 52070.6,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 36.1,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 402 Wagon",
+    "type": "Wagon",
+    "price": 76611.31,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 403 Crossover",
+    "type": "Crossover",
+    "price": 61897.77,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 38.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 404 Sedan",
+    "type": "Sedan",
+    "price": 31985.55,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 36.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 405 SUV",
+    "type": "SUV",
+    "price": 20093.54,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 29.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 406 Convertible",
+    "type": "Convertible",
+    "price": 89396.71,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 407 Coupe",
+    "type": "Coupe",
+    "price": 39964.29,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 39.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 408 Crossover",
+    "type": "Crossover",
+    "price": 73211.18,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 18.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 409 Wagon",
+    "type": "Wagon",
+    "price": 38975.88,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 410 Coupe",
+    "type": "Coupe",
+    "price": 68679.69,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 20.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 411 Truck",
+    "type": "Truck",
+    "price": 32767.53,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 22.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 412 Sedan",
+    "type": "Sedan",
+    "price": 43973.83,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 26.3,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 413 Wagon",
+    "type": "Wagon",
+    "price": 60846.68,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 16.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 414 Truck",
+    "type": "Truck",
+    "price": 23023.26,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 415 Truck",
+    "type": "Truck",
+    "price": 53654.13,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 416 SUV",
+    "type": "SUV",
+    "price": 67048.76,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 31.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 417 Sedan",
+    "type": "Sedan",
+    "price": 47705.78,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 21.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 418 Hatchback",
+    "type": "Hatchback",
+    "price": 33747.26,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 31.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 419 Convertible",
+    "type": "Convertible",
+    "price": 78680.44,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 39.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 420 SUV",
+    "type": "SUV",
+    "price": 22204.52,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 421 Crossover",
+    "type": "Crossover",
+    "price": 44498.0,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 30.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 422 SUV",
+    "type": "SUV",
+    "price": 37602.94,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 12.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 423 Sedan",
+    "type": "Sedan",
+    "price": 21987.74,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 18.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 424 Truck",
+    "type": "Truck",
+    "price": 55939.43,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 14.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 425 Coupe",
+    "type": "Coupe",
+    "price": 69353.8,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 26.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 426 Hatchback",
+    "type": "Hatchback",
+    "price": 22676.76,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 18.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 427 SUV",
+    "type": "SUV",
+    "price": 48342.73,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 37.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 428 Wagon",
+    "type": "Wagon",
+    "price": 67847.5,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 429 Hatchback",
+    "type": "Hatchback",
+    "price": 22533.33,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 430 Truck",
+    "type": "Truck",
+    "price": 69246.77,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 431 Convertible",
+    "type": "Convertible",
+    "price": 87786.35,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 21.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 432 Wagon",
+    "type": "Wagon",
+    "price": 62166.39,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 21.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 433 SUV",
+    "type": "SUV",
+    "price": 80928.15,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 22.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 434 Crossover",
+    "type": "Crossover",
+    "price": 16576.12,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 17.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 435 Coupe",
+    "type": "Coupe",
+    "price": 56379.01,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 436 Wagon",
+    "type": "Wagon",
+    "price": 42580.3,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 13.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 437 Hatchback",
+    "type": "Hatchback",
+    "price": 68931.71,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 438 Sedan",
+    "type": "Sedan",
+    "price": 55841.54,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 17.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 439 Convertible",
+    "type": "Convertible",
+    "price": 48665.79,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 13.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 440 Hatchback",
+    "type": "Hatchback",
+    "price": 40959.95,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 19.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 441 Sedan",
+    "type": "Sedan",
+    "price": 62092.77,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 442 Convertible",
+    "type": "Convertible",
+    "price": 65593.49,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 25.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 443 Truck",
+    "type": "Truck",
+    "price": 46405.55,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 21.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 444 Wagon",
+    "type": "Wagon",
+    "price": 86897.95,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 39.7,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 445 Convertible",
+    "type": "Convertible",
+    "price": 16802.78,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 35.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 446 Hatchback",
+    "type": "Hatchback",
+    "price": 73180.53,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 18.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 447 Sedan",
+    "type": "Sedan",
+    "price": 64065.39,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 448 Truck",
+    "type": "Truck",
+    "price": 44763.88,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 16.5,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 449 Hatchback",
+    "type": "Hatchback",
+    "price": 64572.0,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 32.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 450 Truck",
+    "type": "Truck",
+    "price": 44339.04,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 33.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 451 Sedan",
+    "type": "Sedan",
+    "price": 72392.57,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 452 Crossover",
+    "type": "Crossover",
+    "price": 43321.22,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 13.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 453 Coupe",
+    "type": "Coupe",
+    "price": 15530.43,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.9,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 454 SUV",
+    "type": "SUV",
+    "price": 80622.06,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 28.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 455 SUV",
+    "type": "SUV",
+    "price": 74669.38,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 29.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 456 Crossover",
+    "type": "Crossover",
+    "price": 76552.61,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 15.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 457 SUV",
+    "type": "SUV",
+    "price": 55489.22,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 458 Hatchback",
+    "type": "Hatchback",
+    "price": 61989.58,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 14.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 459 Coupe",
+    "type": "Coupe",
+    "price": 54647.19,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 460 Crossover",
+    "type": "Crossover",
+    "price": 57449.09,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 461 Truck",
+    "type": "Truck",
+    "price": 85678.44,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 462 Truck",
+    "type": "Truck",
+    "price": 70543.22,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 17.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 463 Wagon",
+    "type": "Wagon",
+    "price": 64998.23,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 36.4,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 464 Coupe",
+    "type": "Coupe",
+    "price": 75992.31,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 26.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 465 SUV",
+    "type": "SUV",
+    "price": 62421.77,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 29.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 466 Coupe",
+    "type": "Coupe",
+    "price": 74943.97,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 467 Sedan",
+    "type": "Sedan",
+    "price": 62833.27,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 39.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 468 Truck",
+    "type": "Truck",
+    "price": 73378.15,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 32.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 469 Hatchback",
+    "type": "Hatchback",
+    "price": 89681.4,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 18.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 470 Truck",
+    "type": "Truck",
+    "price": 42697.35,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 16.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 471 Hatchback",
+    "type": "Hatchback",
+    "price": 45600.85,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.8,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 472 Coupe",
+    "type": "Coupe",
+    "price": 27898.77,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 37.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 473 Crossover",
+    "type": "Crossover",
+    "price": 49041.13,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 474 Coupe",
+    "type": "Coupe",
+    "price": 42391.32,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 475 Convertible",
+    "type": "Convertible",
+    "price": 72314.64,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 29.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 476 Convertible",
+    "type": "Convertible",
+    "price": 71818.78,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 477 Wagon",
+    "type": "Wagon",
+    "price": 77046.79,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 31.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 478 Sedan",
+    "type": "Sedan",
+    "price": 37560.65,
+    "primaryUseCategory": "family",
+    "safetyRating": "3-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 19.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 479 Truck",
+    "type": "Truck",
+    "price": 54120.76,
+    "primaryUseCategory": "daily",
+    "safetyRating": "4-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 480 Wagon",
+    "type": "Wagon",
+    "price": 23997.49,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 19.1,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 481 Convertible",
+    "type": "Convertible",
+    "price": 60594.06,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 23.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 482 Sedan",
+    "type": "Sedan",
+    "price": 87404.74,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 38.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 483 Sedan",
+    "type": "Sedan",
+    "price": 17198.75,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 27.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 484 Wagon",
+    "type": "Wagon",
+    "price": 58362.3,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 17.9,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 485 Hatchback",
+    "type": "Hatchback",
+    "price": 31440.36,
+    "primaryUseCategory": "family",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 486 Wagon",
+    "type": "Wagon",
+    "price": 38673.56,
+    "primaryUseCategory": "daily",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 25.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 487 Wagon",
+    "type": "Wagon",
+    "price": 40585.58,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 33.7,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 488 Truck",
+    "type": "Truck",
+    "price": 44537.93,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 20.6,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 489 SUV",
+    "type": "SUV",
+    "price": 25905.08,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 12.8,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 490 Hatchback",
+    "type": "Hatchback",
+    "price": 58025.2,
+    "primaryUseCategory": "city",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 491 Truck",
+    "type": "Truck",
+    "price": 21071.3,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 492 Sedan",
+    "type": "Sedan",
+    "price": 39737.59,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Gasoline",
+    "fuelEfficiency": 20.6,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 493 Coupe",
+    "type": "Coupe",
+    "price": 28536.99,
+    "primaryUseCategory": "city",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 494 Convertible",
+    "type": "Convertible",
+    "price": 62465.17,
+    "primaryUseCategory": "city",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 38.4,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 495 Wagon",
+    "type": "Wagon",
+    "price": 81515.02,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Diesel",
+    "fuelEfficiency": 33.3,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 496 Truck",
+    "type": "Truck",
+    "price": 20378.03,
+    "primaryUseCategory": "family",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 22.2,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 497 Coupe",
+    "type": "Coupe",
+    "price": 33453.11,
+    "primaryUseCategory": "daily",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 34.5,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 498 SUV",
+    "type": "SUV",
+    "price": 22267.42,
+    "primaryUseCategory": "luxury",
+    "safetyRating": "5-star",
+    "fuelType": "Electric",
+    "fuelEfficiency": 0.0,
+    "luxuryFeatures": false
+  },
+  {
+    "name": "Model 499 SUV",
+    "type": "SUV",
+    "price": 21561.13,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "3-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 38.2,
+    "luxuryFeatures": true
+  },
+  {
+    "name": "Model 500 Hatchback",
+    "type": "Hatchback",
+    "price": 43413.08,
+    "primaryUseCategory": "adventure",
+    "safetyRating": "4-star",
+    "fuelType": "Hybrid",
+    "fuelEfficiency": 36.0,
+    "luxuryFeatures": true
+  }
+]
